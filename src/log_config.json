@@ -1,0 +1,10 @@
+{
+  "appenders": {
+    "console": { "type": "console" },
+    "file": { "type": "file", "filename": "debug.log" }
+  },
+  "categories": {
+    "debug": { "appenders": ["file"], "level": "trace"},
+    "default": { "appenders": ["console", "file"], "level": "info" }
+  }
+}

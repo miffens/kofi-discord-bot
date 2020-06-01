@@ -1,0 +1,18 @@
+{
+  "name": "kofi_bot",
+  "version": "1.0.0",
+  "description": "Kofi Gold reward tier role managment in Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "eris": "^0.12.0",
+    "eslint": "^7.0.0",
+    "express": "^4.17.1",
+    "log4js": "^6.2.1"
+  }
+}

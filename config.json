@@ -1,0 +1,20 @@
+{
+  "BOT_TOKEN": "",
+  "LOG_CHANNEL_ID": "",
+  "EXPIRE_CHECK_INTERVAL": "1",
+  "EXPIRE_CHECK_HOUR": "5",
+  "TIERS": [
+    {
+      "name": "supporter",
+      "amount": 2
+    },
+    {
+      "name": "super supporter",
+      "amount": 5
+    }
+    ],
+  "BOT_MSG": {
+    "connected": "I'm online!",
+    "mention_response": "Present!"
+  }
+}
